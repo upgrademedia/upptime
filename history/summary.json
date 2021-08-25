@@ -4,19 +4,19 @@
     "url": "https://staging.hitpiece.com",
     "icon": "https://favicons.githubusercontent.com/staging.hitpiece.com",
     "slug": "hitpiece-client-staging",
-    "status": "down",
-    "uptime": "27.62%",
-    "uptimeDay": "27.62%",
-    "uptimeWeek": "27.62%",
-    "uptimeMonth": "27.62%",
-    "uptimeYear": "27.62%",
-    "time": 1995,
-    "timeDay": 1995,
-    "timeWeek": 1995,
-    "timeMonth": 1995,
-    "timeYear": 1995,
+    "status": "up",
+    "uptime": "26.74%",
+    "uptimeDay": "26.74%",
+    "uptimeWeek": "26.74%",
+    "uptimeMonth": "26.74%",
+    "uptimeYear": "26.74%",
+    "time": 1697,
+    "timeDay": 1697,
+    "timeWeek": 1697,
+    "timeMonth": 1697,
+    "timeYear": 1697,
     "dailyMinutesDown": {
-      "2021-08-25": 14
+      "2021-08-25": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://auth-staging.hitpiece.com/healthz",
     "icon": "https://favicons.githubusercontent.com/auth-staging.hitpiece.com",
     "slug": "hitpiece-auth-via-hasura-backend-plus-staging",
-    "status": "down",
-    "uptime": "27.36%",
-    "uptimeDay": "27.36%",
-    "uptimeWeek": "27.36%",
-    "uptimeMonth": "27.36%",
-    "uptimeYear": "27.36%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "26.47%",
+    "uptimeDay": "26.47%",
+    "uptimeWeek": "26.47%",
+    "uptimeMonth": "26.47%",
+    "uptimeYear": "26.47%",
+    "time": 209,
+    "timeDay": 209,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2021-08-25": 14
+      "2021-08-25": 15
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://hasura-staging.hitpiece.com/healthz",
     "icon": "https://favicons.githubusercontent.com/hasura-staging.hitpiece.com",
     "slug": "hitpiece-graph-ql-engine-via-hasura-staging",
-    "status": "down",
-    "uptime": "27.51%",
-    "uptimeDay": "27.51%",
-    "uptimeWeek": "27.51%",
-    "uptimeMonth": "27.51%",
-    "uptimeYear": "27.51%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "26.44%",
+    "uptimeDay": "26.44%",
+    "uptimeWeek": "26.44%",
+    "uptimeMonth": "26.44%",
+    "uptimeYear": "26.44%",
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2021-08-25": 14
+      "2021-08-25": 15
     }
   }
 ]
