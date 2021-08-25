@@ -11,8 +11,6 @@ sites:
     url: https://hasura-staging.hitpiece.com/healthz
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime
   logoUrl: https://upgrademedia-docs.netlify.app/img/logo.png
   name: UpgradeMedia
