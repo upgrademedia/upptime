@@ -10,5 +10,21 @@ sites:
   - name: Hitpiece GraphQL Engine via Hasura (Staging)
     url: https://hasura-staging.hitpiece.com/healthz
 
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  baseUrl: /upptime
+  logoUrl: https://upgrademedia-docs.netlify.app/img/logo.png
+  name: UpgradeMedia
+  introTitle: "**UpgradeMedia** is a white glove, high value, and high touch point software development agency"
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upgrademedia/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/upgrademedia/upptime
+    - title: Website
+      href: https://upgrademedia.com 
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
